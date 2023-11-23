@@ -12,6 +12,7 @@ public class Boletin6_Ej1 {
 		sc.close();
 		
 		//esto es una condicion
+		//Quee sta muy bien hecha
 		if(primeraPalabra.length()<segundaPalabra.length()) {
 			System.out.println(primeraPalabra + "  es la palabra mas corta");
 		}else if(primeraPalabra.length()>segundaPalabra.length()) {
